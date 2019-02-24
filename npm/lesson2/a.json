@@ -1,0 +1,9 @@
+{
+  "name": "hello-npm-script",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "config": {
+    "port": 3000
+  }
+ } 
